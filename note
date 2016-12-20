@@ -1,0 +1,5 @@
+#python 没有大括号，靠缩进
+#路径：str=r'c:\now\local\'   'c:\\now\\local'
+#长字符串str='''789
+465
+132'''自动加\n
